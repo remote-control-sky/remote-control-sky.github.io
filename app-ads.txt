@@ -1,12 +1,10 @@
 #Updated 22nd September 2023
+#Admob
 google.com, pub-3145752081467974, DIRECT, f08c47fec0942fa0
-
-
 #Appodeal
 appodeal.com, 16769, DIRECT
 #BidMachine
 bidmachine.io, 16769, DIRECT
-
 #Resellers
 152media.info,152M5,RESELLER
 acexchange.co.kr,1081983882,RESELLER
